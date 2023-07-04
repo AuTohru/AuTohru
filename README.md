@@ -3,7 +3,7 @@
 ### specs:
 [vngandr@vngandr-manjaroPC ~]$neofetch
 
-vngandr@vngandr-manjaroPC
+vngandr@vngandr-manjaroPC /n
 OS: Manjaro Linux x86_64
 Kernel: 6.1.31-2-MANJARO
 Packages: 1174 (pacman), 4 (snap)
