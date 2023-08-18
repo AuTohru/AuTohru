@@ -4,18 +4,18 @@
 ![i can](https://skillicons.dev/icons?i=cpp,discord,docker,py,vscode)
 
 ```zsh
-[vngandr@vngandr-manjaroPC ~]$neofetch
-
-vngandr@vngandr-manjaroPC
-OS: Manjaro Linux x86_64
-Kernel: 6.1.31-2-MANJARO
-Packages: 1174 (pacman), 4 (snap)
-Shell: zsh 5.9 
+minatoriSORA@saaandrewPC
+OS: Windows 11 Pro x86_64
+Kernel: 10.0.22621.2134
+Packages: 12 (scoop)
+Shell: bash 4.4.23
 Resolution: 3840x2160 
-DE: GNOME 44.1 
-Terminal: gnome-terminal 
-CPU: AMD Ryzen 9 7950X (32) @ 4.500GHz 
-GPU: NVIDIA GeForce RTX 4080 
+DE: Aero
+WM: Explorer
+WM Theme: dark
+Terminal: Windows Terminal
+CPU: AMD Ryzen 9 7950X3D with AMD Radeon Graphics (32) @ 4.500GHz 
+GPU: NVIDIA GeForce RTX 4090 
 Memory: 2112MiB / 30517MiB 
 ```                           
                                 
