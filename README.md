@@ -1,4 +1,4 @@
-### moshimoshi. I'm Sakura Andrew (or saaandrew). This account belong to me(Andrew) and my big sis Sora.
+### moshimoshi. I'm Ngọc Linh (or saaandrew). This account belong to me and my big sis Sora.
 
 ### i can
 ![i can](https://skillicons.dev/icons?i=cpp,discord,docker,py,vscode)
