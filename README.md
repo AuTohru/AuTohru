@@ -1,5 +1,4 @@
-### moshimoshi. I'm Andrew (or saaandrew). This account belong to me and my big sis Sora.
-
+### Hello. I'm Andrew (or saaandrew).
 ### i can
 ![i can](https://skillicons.dev/icons?i=cpp,discord,docker,py,vscode)
 
