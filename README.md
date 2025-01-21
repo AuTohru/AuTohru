@@ -1,9 +1,9 @@
-### Hello. I'm Andrew (or saaandrew).
+### Hello. I'm Azu (or Tohru / AuTohru / Tohru Audrealyne).
 ### i can
 ![i can](https://skillicons.dev/icons?i=cpp,discord,docker,py,vscode)
 
 ```zsh
-minatoriSORA@saaandrewPC
+AuTohru@Azu_PC
 OS: Windows 11 Pro x86_64
 Kernel: 10.0.22621.2134
 Packages: 12 (scoop)
