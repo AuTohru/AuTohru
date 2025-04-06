@@ -3,7 +3,7 @@
 ![i can](https://skillicons.dev/icons?i=cpp,discord,docker,py,vscode)
 
 ```zsh
-AuTohru@Azu_PC
+AuTohru@oZone_PC
 OS: Windows 11 Pro x86_64
 Kernel: 10.0.22621.2134
 Packages: 12 (scoop)
@@ -13,8 +13,8 @@ DE: Aero
 WM: Explorer
 WM Theme: dark
 Terminal: Windows Terminal
-CPU: AMD Ryzen 9 7950X3D with AMD Radeon Graphics (32) @ 4.500GHz 
-GPU: NVIDIA GeForce RTX 4090 
+CPU: AMD Ryzen 9 9950X3D with AMD Radeon Graphics (32) @ 4.300GHz 
+GPU: NVIDIA GeForce RTX 5090 
 Memory: 2112MiB / 30517MiB 
 ```                           
                                 
